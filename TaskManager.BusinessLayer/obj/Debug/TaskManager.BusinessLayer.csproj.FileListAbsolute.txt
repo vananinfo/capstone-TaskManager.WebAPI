@@ -1,0 +1,111 @@
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csproj.CopyComplete
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csproj.CopyComplete
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb

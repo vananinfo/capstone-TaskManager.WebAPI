@@ -1,0 +1,8 @@
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskManager.Data.Model.deps.json
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskManager.Data.Model.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskManager.Data.Model.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.Data.Model.AssemblyInfo.cs
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.Data.Model.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.Data.Model.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskDetailsDTO.cs
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.Data.Model.csprojResolveAssemblyReference.cache

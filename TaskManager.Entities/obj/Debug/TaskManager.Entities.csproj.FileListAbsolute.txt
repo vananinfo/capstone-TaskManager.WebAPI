@@ -1,0 +1,40 @@
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Entities\obj\Debug\TaskManager.Entities.csprojResolveAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.csprojAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.csprojResolveAssemblyReference.cache
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb

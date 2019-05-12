@@ -1,0 +1,7 @@
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskDetailsDTO.cs
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskManager.DataModel.deps.json
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskManager.DataModel.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\bin\Debug\netstandard1.4\TaskManager.DataModel.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.DataModel.AssemblyInfo.cs
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.DataModel.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.Data.Model\obj\Debug\netstandard1.4\TaskManager.DataModel.pdb

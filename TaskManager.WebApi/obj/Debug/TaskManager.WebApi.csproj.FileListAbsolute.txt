@@ -1,0 +1,223 @@
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.DataModel.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi\bin\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csproj.CopyComplete
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE CS Final\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csproj.CopyComplete
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb

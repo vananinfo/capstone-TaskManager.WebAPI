@@ -1,0 +1,289 @@
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Moq.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Moq.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Moq.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Moq.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Moq.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Moq.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.Entities\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Moq.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Moq.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Moq.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll.config
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Moq.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll.config
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Moq.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Moq.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csprojAssemblyReference.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll.config
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Moq.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll.config
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Moq.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Moq.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csproj.CopyComplete
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.dll
+C:\Ezhil Workspace\FSE CS Final\CapstoneFinal\Capstone\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll.config
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.Tests.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Moq.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataModel.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataModel.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.Entities.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.WebApi.dll.config
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Castle.Core.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Moq.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Moq.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.ValueTuple.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.pdb
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.dll
+C:\Ezhil Workspace\FSE\CapstoneFinal\TaskManager.WebAPI\TaskManager.WebApi.Tests\obj\Debug\TaskManager.WebApi.Tests.pdb
